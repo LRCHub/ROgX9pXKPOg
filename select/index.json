@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Close To You",
+  "base_artist": "Frank Ocean",
+  "createdAt": "2026-02-15T09:13:18.336778Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Close to You 天天",
+      "artist": "陶喆",
+      "has_synced": false,
+      "path": "select/01_Close_to_You_天天_陶喆.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Close To You",
+      "artist": "Muddy Waters",
+      "has_synced": false,
+      "path": "select/02_Close_To_You_Muddy_Waters.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Close to You",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/03_Close_to_You_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Close to You",
+      "artist": "The Avalanches",
+      "has_synced": true,
+      "path": "select/04_Close_to_You_The_Avalanches.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Close To You",
+      "artist": "Fun Factory",
+      "has_synced": true,
+      "path": "select/05_Close_To_You_Fun_Factory.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Close To You",
+      "artist": "Novaspace",
+      "has_synced": false,
+      "path": "select/06_Close_To_You_Novaspace.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Close To You",
+      "artist": "Whigfield",
+      "has_synced": true,
+      "path": "select/07_Close_To_You_Whigfield.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Close to You - Dimaro Remix Edit",
+      "artist": "Fun Factory",
+      "has_synced": true,
+      "path": "select/08_Close_to_You_-_Dimaro_Remix_Edit_Fun_Factory.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(They Long To Be) Close To You - Live At Féile, Tipperary, Ireland / 1994",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/09_(They_Long_To_Be)_Close_To_You_-_Live_At_Féile,_Tipperary,_Ireland___1994_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "(They Long to Be) Close to You (Live at Féile, Tipperary, July 31, 1994)",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/10_(They_Long_to_Be)_Close_to_You_(Live_at_Féile,_Tipperary,_July_31,_1994)_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(They Long To Be) Close To You",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/11_(They_Long_To_Be)_Close_To_You_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(They Long To Be) Close To You",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/12_(They_Long_To_Be)_Close_To_You_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(They Long To Be) Close To You",
+      "artist": "The Carpenters",
+      "has_synced": true,
+      "path": "select/13_(They_Long_To_Be)_Close_To_You_The_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(They Long To Be) Close To You",
+      "artist": "Burt Bacharach",
+      "has_synced": false,
+      "path": "select/14_(They_Long_To_Be)_Close_To_You_Burt_Bacharach.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "(They Long To Be) Close To You (1991 Remix)",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/15_(They_Long_To_Be)_Close_To_You_(1991_Remix)_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Close to Me",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/16_Close_to_Me_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't Stand So Close To Me",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/17_Don't_Stand_So_Close_To_Me_The_Police.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Angel Flying Too Close to the Ground",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/18_Angel_Flying_Too_Close_to_the_Ground_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Keep It Close to Me",
+      "artist": "Yumi Zouma",
+      "has_synced": true,
+      "path": "select/19_Keep_It_Close_to_Me_Yumi_Zouma.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Close To Love",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/20_Close_To_Love_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Close To Love (Tangled Up Tour Live From The O2)",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/21_Close_To_Love_(Tangled_Up_Tour_Live_From_The_O2)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Close To The Edge",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/22_Close_To_The_Edge_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Close to the Edge",
+      "artist": "Bronski Beat",
+      "has_synced": false,
+      "path": "select/23_Close_to_the_Edge_Bronski_Beat.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Close to You",
+      "artist": "Frank Ocean",
+      "has_synced": false,
+      "path": "select/pl_01_Close_to_You_Frank_Ocean.txt"
+    }
+  ]
+}
